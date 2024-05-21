@@ -1,2 +1,0 @@
-# interview-database
-interview-database
